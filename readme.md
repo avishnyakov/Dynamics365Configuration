@@ -1,4 +1,6 @@
 # Introduction
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Favishnyakov%2FDynamics365Configuration.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Favishnyakov%2FDynamics365Configuration?ref=badge_shield)
+
 
 A module to ease infrastructure as code tasks for Dynamics 365.
 
@@ -170,6 +172,9 @@ Install-Dynamics365Server
 ```
 
 Have a look at Microsoft Dynamics 365 Server documentation: https://technet.microsoft.com/en-us/library/hh699830.aspx.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Favishnyakov%2FDynamics365Configuration.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Favishnyakov%2FDynamics365Configuration?ref=badge_large)
 
 ### Parameters
 
